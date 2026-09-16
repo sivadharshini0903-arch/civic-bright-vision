@@ -16,9 +16,9 @@ The main goal of this project is to reduce unnecessary garbage collection trips,
 
 The interactive prototype demonstrates how an AI-based urban cleanliness management system can monitor waste-related issues, analyze data, predict collection requirements, prioritize cleaning activities, and support efficient waste collection.
 
-👉 **[Open the Civic Bright Vision Prototype](YOUR_PROTOTYPE_LINK)**
+👉 **[Open the Civic Bright Vision Prototype](https://civic-bright-vision.lovable.app)
 
-> 💡 Replace `YOUR_PROTOTYPE_LINK` with your actual prototype URL.
+
 
 ---
 
