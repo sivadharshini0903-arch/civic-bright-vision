@@ -2,113 +2,80 @@
 
 ## AI-Based Intelligent Urban Cleanliness Management System
 
-Civic Bright Vision is an AI-powered urban cleanliness management system designed to make garbage collection smarter, faster, and more efficient.
+Civic Bright Vision is an AI-powered urban cleanliness management system designed to make garbage collection smarter, more efficient, and more responsive.
 
-The system uses AI-based analysis and fill-level prediction to identify waste collection needs, prioritize areas, and support optimized cleaning schedules and routes.
+The system uses Artificial Intelligence to analyze cleanliness-related information, detect waste management issues, predict garbage fill levels, assign priority scores, and support smart scheduling and route planning.
 
-## 🎯 Problem Statement
-
-Traditional garbage collection often follows fixed schedules, even when some bins are nearly empty while others are overflowing.
-
-This can lead to:
-
-- Unnecessary garbage truck trips
-- Wasted fuel and time
-- Overflowing garbage in public areas
-- Repeated manual cleaning
-- Poorly planned collection schedules
-
-## 💡 Proposed Solution
-
-Civic Bright Vision uses AI to analyze cleanliness-related data and predict which areas require attention.
-
-Instead of collecting garbage only according to a fixed schedule, the system supports **smart and priority-based garbage collection**.
-
-### 🔄 System Workflow
-
-Citizen Reports
-↓
-Data Collection
-↓
-AI Analysis
-↓
-Issue Detection
-↓
-Fill-Level Prediction
-↓
-Priority Score
-↓
-Smart Scheduling
-↓
-Route Planning
-↓
-Cleaning
-↓
-Verification
-↓
-Analytics
-
-## 🤖 Key Features
-
-- 🗑️ Smart waste monitoring
-- 📍 Location-based cleanliness monitoring
-- 📊 AI-based data analysis
-- 🔮 Garbage fill-level prediction
-- 🚨 Issue and overflow detection
-- ⭐ Priority scoring
-- 📅 Smart collection scheduling
-- 🛣️ Route planning
-- 🗺️ Interactive map-based monitoring
-- 👥 Citizen issue reporting
-- 📈 Cleanliness analytics
-- ✅ Cleaning verification
-
-## 🌍 Impact
-
-The system aims to help cities:
-
-- Reduce unnecessary garbage collection trips
-- Save fuel and transportation time
-- Reduce garbage overflow
-- Improve cleanliness in public areas
-- Support better workforce planning
-- Provide faster response to cleanliness issues
-- Create a smarter and more efficient urban cleaning system
-
-## 🛠️ Technology
-
-- AI / Machine Learning
-- React
-- Vite
-- JavaScript
-- HTML
-- CSS
-- Interactive Maps
-- GitHub
-- Vercel
-
-## 🖥️ Project
-
-This repository contains the web-based interface and components of the Civic Bright Vision urban cleanliness management system.
-
-## 🚀 Future Scope
-
-Future improvements can include:
-
-- Real-time AI prediction
-- More advanced machine learning models
-- Real-time city-wide cleanliness monitoring
-- Smart route optimization
-- Integration with municipal systems
-- Mobile application
-- Real-time notifications and alerts
-
-## 👩‍💻 Project Developer
-
-Developed as an individual AI project focused on applying Artificial Intelligence to urban cleanliness management.
+The main goal of this project is to reduce unnecessary garbage collection trips, prevent garbage overflow, save time and fuel, and improve the overall cleanliness of urban areas.
 
 ---
 
-### 🌱 Civic Bright Vision
+## 🌐 Live Prototype
 
-**Smarter Waste Management. Cleaner Cities. Better Communities.**
+### 🚀 Explore the Civic Bright Vision Prototype
+
+The interactive prototype demonstrates how an AI-based urban cleanliness management system can monitor waste-related issues, analyze data, predict collection requirements, prioritize cleaning activities, and support efficient waste collection.
+
+👉 **[Open the Civic Bright Vision Prototype](YOUR_PROTOTYPE_LINK)**
+
+> 💡 Replace `YOUR_PROTOTYPE_LINK` with your actual prototype URL.
+
+---
+
+## 🎯 Problem Statement
+
+In many urban areas, garbage collection is carried out according to fixed schedules.
+
+However, garbage bins and collection points do not always fill at the same rate. Some areas may require immediate cleaning while other areas may have very little waste.
+
+This can lead to:
+
+- Unnecessary garbage collection trips
+- Fuel and time wastage
+- Overflowing garbage bins
+- Repeated manual cleaning
+- Delayed response to high-priority areas
+- Inefficient garbage collection routes
+
+There is a need for a smarter system that can identify which areas require attention and help plan garbage collection efficiently.
+
+---
+
+## 💡 Proposed Solution
+
+Civic Bright Vision proposes an AI-based approach to urban cleanliness management.
+
+Instead of depending only on fixed collection schedules, the system analyzes available cleanliness data and predicts which areas may require cleaning attention.
+
+The system can assign priority levels to different locations and support smart scheduling and route planning.
+
+This helps cleaning teams focus on areas that need attention first.
+
+---
+
+## 🤖 How the System Works
+
+The proposed system follows a structured workflow:
+
+```text
+Citizen Reports
+       ↓
+Data Collection
+       ↓
+AI Analysis
+       ↓
+Issue Detection
+       ↓
+Fill-Level Prediction
+       ↓
+Priority Score
+       ↓
+Smart Scheduling
+       ↓
+Route Planning
+       ↓
+Cleaning
+       ↓
+Verification
+       ↓
+Analytics
